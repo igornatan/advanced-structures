@@ -1,0 +1,10 @@
+Nome: Igor 
+Nome: Igor 
+Idade: 20
+Nome: Igor 
+Idade: 20
+Data de Nascimento: 19081999
+Nome: Igor 
+Idade: 20
+Data de Nascimento: 19081999
+Profissão: Teste
